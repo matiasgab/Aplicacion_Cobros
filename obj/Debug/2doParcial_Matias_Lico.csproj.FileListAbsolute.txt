@@ -1,0 +1,10 @@
+C:\Users\MatiaLi\Documents\Maty\UAI Asignaturas\2° Año\POO 2 etapa\091_POO_2J_2doParcial_Lico_Matias\2doParcial_Matias_Lico\2doParcial_Matias_Lico\bin\Debug\2doParcial_Matias_Lico.exe.config
+C:\Users\MatiaLi\Documents\Maty\UAI Asignaturas\2° Año\POO 2 etapa\091_POO_2J_2doParcial_Lico_Matias\2doParcial_Matias_Lico\2doParcial_Matias_Lico\bin\Debug\2doParcial_Matias_Lico.exe
+C:\Users\MatiaLi\Documents\Maty\UAI Asignaturas\2° Año\POO 2 etapa\091_POO_2J_2doParcial_Lico_Matias\2doParcial_Matias_Lico\2doParcial_Matias_Lico\bin\Debug\2doParcial_Matias_Lico.pdb
+C:\Users\MatiaLi\Documents\Maty\UAI Asignaturas\2° Año\POO 2 etapa\091_POO_2J_2doParcial_Lico_Matias\2doParcial_Matias_Lico\2doParcial_Matias_Lico\obj\Debug\2doParcial_Matias_Lico.csprojAssemblyReference.cache
+C:\Users\MatiaLi\Documents\Maty\UAI Asignaturas\2° Año\POO 2 etapa\091_POO_2J_2doParcial_Lico_Matias\2doParcial_Matias_Lico\2doParcial_Matias_Lico\obj\Debug\_2doParcial_Matias_Lico.Form1.resources
+C:\Users\MatiaLi\Documents\Maty\UAI Asignaturas\2° Año\POO 2 etapa\091_POO_2J_2doParcial_Lico_Matias\2doParcial_Matias_Lico\2doParcial_Matias_Lico\obj\Debug\_2doParcial_Matias_Lico.Properties.Resources.resources
+C:\Users\MatiaLi\Documents\Maty\UAI Asignaturas\2° Año\POO 2 etapa\091_POO_2J_2doParcial_Lico_Matias\2doParcial_Matias_Lico\2doParcial_Matias_Lico\obj\Debug\2doParcial_Matias_Lico.csproj.GenerateResource.cache
+C:\Users\MatiaLi\Documents\Maty\UAI Asignaturas\2° Año\POO 2 etapa\091_POO_2J_2doParcial_Lico_Matias\2doParcial_Matias_Lico\2doParcial_Matias_Lico\obj\Debug\2doParcial_Matias_Lico.csproj.CoreCompileInputs.cache
+C:\Users\MatiaLi\Documents\Maty\UAI Asignaturas\2° Año\POO 2 etapa\091_POO_2J_2doParcial_Lico_Matias\2doParcial_Matias_Lico\2doParcial_Matias_Lico\obj\Debug\2doParcial_Matias_Lico.exe
+C:\Users\MatiaLi\Documents\Maty\UAI Asignaturas\2° Año\POO 2 etapa\091_POO_2J_2doParcial_Lico_Matias\2doParcial_Matias_Lico\2doParcial_Matias_Lico\obj\Debug\2doParcial_Matias_Lico.pdb
